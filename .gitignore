@@ -1,0 +1,9 @@
+bin
+.classpath
+dist
+.externalToolBuilders
+gen
+images
+.project
+project.properties
+*~

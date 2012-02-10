@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Wiktionary Lookup</string>
+<string name="lookup">Lookup</string>
+<string name="word_not_found">Word Not Found</string>
+<string name="wotd">Word of the Day</string>
+</resources>
